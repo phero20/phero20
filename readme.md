@@ -151,7 +151,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:00020a,10:01030a,20:020617,32:050a1a,44:0b1220,56:0f172a,68:172554,80:1e293b,90:1e3a8a,100:1e40af&text=%E2%9F%A8%20FRONTEND%20%E2%9F%A9&section=header&reversal=true&fontAlign=12&fontAlignY=42&animation=scaleIn&descAlign=48&textBg=false&fontSize=22&fontColor=22D3EE" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <table><tr>
 
@@ -170,7 +170,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:03010a,10:07030f,20:0f061d,32:140b2a,44:1e1b4b,56:2e1065,68:3b0764,80:4c1d95,90:581c87,100:6b21a8&text=%E2%9F%A8%20BACKEND%20%E2%9F%A9&section=header&reversal=false&fontAlign=88&fontAlignY=42&animation=scaleIn&descAlign=48&textBg=false&fontSize=22&fontColor=F472B6" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <table><tr>
   <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="64" height="64"/><br/><sub><b>Node.js</b></sub></td>
