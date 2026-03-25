@@ -3,7 +3,7 @@
 <!---------------------------------------------------------------------------->
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,20:D1FAE5,40:A7F3D0,60:6EE7B7,80:34D399,100:10B981&height=240&section=header&text=MD%20FEROZ%20AHMED&fontSize=62&fontColor=111827&animation=twinkling&fontAlignY=46&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Products&descAlignY=70&descSize=17&descColor=065F46" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,20:D1FAE5,40:A7F3D0,60:6EE7B7,80:34D399,100:10B981&height=200&section=header&text=MD%20FEROZ%20AHMED&fontSize=62&fontColor=111827&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Products&descAlignY=55&descSize=17&descColor=065F46" width="100%"/>
 <!---------------------------------------------------------------------------->
 <!--  TYPING + SOCIALS                                                       -->
 <!---------------------------------------------------------------------------->
