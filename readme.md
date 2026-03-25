@@ -3,8 +3,7 @@
 <!---------------------------------------------------------------------------->
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:161616,100:1a1a1a&height=220&section=header&text=MD%20FEROZ%20AHMED&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer&descAlignY=70&descSize=16&descColor=777777" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,20:D1FAE5,40:A7F3D0,60:6EE7B7,80:34D399,100:10B981&height=240&section=header&text=MD%20FEROZ%20AHMED&fontSize=62&fontColor=111827&animation=twinkling&fontAlignY=46&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Products&descAlignY=70&descSize=17&descColor=065F46" width="100%"/>
 <!---------------------------------------------------------------------------->
 <!--  TYPING + SOCIALS                                                       -->
 <!---------------------------------------------------------------------------->
@@ -19,7 +18,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=phero20&style=flat-square&color=333&label=profile+views)&ensp;![](https://img.shields.io/badge/status-open%20to%20work-222?style=flat-square)
+![](https://komarev.com/ghpvc/?username=phero20&style=flat-square&color=8b5cf6&label=profile+views)&ensp;![](https://img.shields.io/github/followers/phero20?style=flat-square&label=followers&labelColor=374151&color=2563eb)&ensp;![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/phero20&query=$.public_repos&label=public%20repos&style=flat-square&labelColor=374151&color=16a34a)
 
 </div>
 
@@ -31,19 +30,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:161616&height=2&animation=fadeIn" width="100%"/>
 
-<div align="center">
-
-<h2>◈ &nbsp;About Me</h2>
-
-<p><b>Md Feroz Ahmed</b> · Full Stack Developer · India 🇮🇳</p>
-
-<p><b>Updates:</b> Building cloud-native distributed systems · Learning something new every week · Exploring cybersecurity and hack tooling · Open to Full-time | Freelance | Collab</p>
-
-</div>
+<p align="center"><b>Full Stack Developer focused on building scalable and reliable products.</b></p>
 
 <br/>
 
-<h2>◈ &nbsp;GitHub Stats</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20GITHUB%20STATS%20%E2%9F%A9&fontSize=28&fontColor=3FB950&animation=fadeIn&fontAlignY=25" width="100%"/>
+<div align="center">
 
 <table width="100%" border="0" cellpadding="6">
 <tr>
@@ -55,6 +48,9 @@
 </td>
 </tr>
 </table>
+
+</div>
+
 
 <!---------------------------------------------------------------------------->
 <!--  PROFILE SUMMARY CARDS — unique mosaic layout                          -->
@@ -85,21 +81,25 @@
 
 <!--  SNAKE ANIMATION  (add GitHub Action to generate this — see setup note below) -->
 <div align="center">
-  <p align="left">
-    <img src="https://img.shields.io/badge/DATA_STREAM-3D_CITY_GRID-7c3aed?style=for-the-badge&labelColor=0d0d0d" />
-  </p>
+
   
 <picture>
  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </picture>
+<div><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /></div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phero20/phero20/output/pacman-contribution-graph.svg">
 </picture>
+
 </div>
 
+
+
 <br/>
+
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=phero20&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
@@ -185,8 +185,8 @@
 <!-- ════════════════════  DATABASES  ════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,25:065f46,50:0f766e,75:0ea5a4,100:67e8f9&height=120&section=header&text=%E2%9F%A8%20DATABASES%20%E2%9F%A9&fontSize=28&fontColor=67E8F9&animation=fadeIn&fontAlignY=25" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,25:7c2d12,50:d97706,75:f59e0b,100:fbbf24&height=92&section=header&text=%E2%9F%A8%20CLOUD%20AND%20HOSTING%20%E2%9F%A9&fontSize=22&fontColor=FDE68A&animation=fadeIn&fontAlignY=25" width="100%"/>
 <br/><br/>
 
 <table align="center">
@@ -214,7 +214,7 @@
 <!-- ════════════════════  CLOUD  ════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,25:7c2d12,50:d97706,75:f59e0b,100:fbbf24&height=120&section=header&text=%E2%9F%A8%20CLOUD%20AND%20HOSTING%20%E2%9F%A9&fontSize=28&fontColor=FDE68A&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,25:065f46,50:0f766e,75:0ea5a4,100:67e8f9&height=92&section=header&text=%E2%9F%A8%20DATABASES%20%E2%9F%A9&fontSize=22&fontColor=67E8F9&animation=fadeIn&fontAlignY=25" width="100%"/>
 
 <br/><br/>
 
@@ -240,7 +240,7 @@
 <!-- ════════════════════  DEVOPS  ════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,25:991b1b,50:dc2626,75:ef4444,100:fca5a5&height=120&section=header&text=%E2%9F%A8%20DEVOPS%20%E2%9F%A9&fontSize=28&fontColor=FCA5A5&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,25:991b1b,50:dc2626,75:ef4444,100:fca5a5&height=92&section=header&text=%E2%9F%A8%20DEVOPS%20%E2%9F%A9&fontSize=22&fontColor=FCA5A5&animation=fadeIn&fontAlignY=25" width="100%"/>
 
 <br/><br/>
 
@@ -261,23 +261,10 @@
 <!---------------------------------------------------------------------------->
 <!--  LEETCODE                                                               -->
 <!---------------------------------------------------------------------------->
-<div align="center">
-  <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="14"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/61d6c1ff3602cc84b9d5686edd06952df9433711a46abe9e9c1d3c2d4ac3b3f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6a756d70696e67706172726f742e676966" width="14"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/e10cb0ead14fb8ba4403e7e52c5c02742bf4f0f6c785cd8894944a4b1829b67a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="14"/>&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/f4a3a1b119775bf82d24d25cae76b69f5664c05ba23ff4c26f4a640e2f5f8cb0/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f7370696e6e696e67706172726f742e676966" width="14"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://camo.githubusercontent.com/5ed4f92bfc0e705117e7a7fffcc9ce5ccdd12cad74efd3ec5c7c8fc6594c7a14/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f666f6f7462616c6c706172726f742e676966" width="14"/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://camo.githubusercontent.com/871937a4358fa31dfb3f3d830a95f515986d8bce30289b913d14b2003a0ab405/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" width="14"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/f2398723022132d55e0f6d0470be540f0233df58aa8652e5c26fa9c817db7f7b/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="14"/>
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=100&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=40&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
 <a href="https://leetcode.com/phero21/">
@@ -285,49 +272,11 @@
 </a>
 </div>
 
-<br/><br/><br/>
-
-<!---------------------------------------------------------------------------->
-<!--  CONNECT                                                                -->
-<!---------------------------------------------------------------------------->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,25:065f46,50:059669,75:10b981,100:86efac&height=120&section=header&text=%E2%9F%A8%20LET%E2%80%99S%20CONNECT%20%E2%80%82%E2%9F%A9&fontSize=28&fontColor=6EE7B7&animation=fadeIn&fontAlignY=25" width="100%"/>
-
 <br/><br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=40&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-[![Drop a Message](https://img.shields.io/badge/Drop%20a%20Message-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111)](mailto:contact@ferozahmed.dev)&ensp;[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=111)](https://ferozahmed.dev)&ensp;[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111)](https://github.com/phero20)
 
+<br/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,20:D1FAE5,40:A7F3D0,60:6EE7B7,80:34D399,100:10B981&height=140&section=footer&fontSize=62&fontColor=111827&animation=twinkling&fontAlignY=46" width="100%"/>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,60:0d0d0d,100:000000&height=120&section=footer&text=Thanks+for+visiting+%C2%B7+Star+something+on+your+way+out+%E2%AD%90&fontColor=444444&fontSize=12&fontAlignY=70&animation=twinkling" width="100%"/>
-
-<!---------------------------------------------------------------------------->
-<!--  SNAKE SETUP NOTE (remove this comment block after setup)               -->
-<!--                                                                         -->
-<!--  To enable the snake contribution animation above:                      -->
-<!--  1. Create .github/workflows/snake.yml in this repo                     -->
-<!--  2. Add this workflow:                                                   -->
-<!--                                                                         -->
-<!--  name: Generate Snake                                                   -->
-<!--  on:                                                                    -->
-<!--    schedule: [{ cron: "0 0 * * *" }]                                   -->
-<!--    workflow_dispatch:                                                    -->
-<!--  jobs:                                                                  -->
-<!--    generate:                                                            -->
-<!--      runs-on: ubuntu-latest                                             -->
-<!--      steps:                                                             -->
-<!--        - uses: Platane/snk/svg-only@v3                                 -->
-<!--          with:                                                          -->
-<!--            github_user_name: phero20                                    -->
-<!--            outputs: |                                                   -->
-<!--              dist/github-contribution-grid-snake.svg                   -->
-<!--              dist/github-contribution-grid-snake-dark.svg?palette=github-dark -->
-<!--        - uses: crazy-max/ghaction-github-pages@v3.1.0                  -->
-<!--          with: { target_branch: output, build_dir: dist }              -->
-<!--          env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }            -->
-<!---------------------------------------------------------------------------->
