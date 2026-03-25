@@ -31,38 +31,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:161616&height=2&animation=fadeIn" width="100%"/>
 
-<table width="100%" border="0" cellpadding="16">
-<tr>
-<td width="48%" valign="top">
+<div align="center">
 
 <h2>◈ &nbsp;About Me</h2>
 
-```typescript
-const feroz = {
-  name: "Md Feroz Ahmed",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
+<p><b>Md Feroz Ahmed</b> · Full Stack Developer · India 🇮🇳</p>
 
-  currently: {
-    building: "Cloud-native distributed systems",
-    learning: "Something new every week",
-    exploring: "Cybersecurity & hack tooling",
-  },
+<p><b>Updates:</b> Building cloud-native distributed systems · Learning something new every week · Exploring cybersecurity and hack tooling · Open to Full-time | Freelance | Collab</p>
 
-  openTo: ["Full-time", "Freelance", "Collab"],
-  funFact: "Stack updates faster than npm audit",
-} as const;
-```
+</div>
 
-</td>
-<td width="52%" valign="top">
+<br/>
 
 <h2>◈ &nbsp;GitHub Stats</h2>
 
+<table width="100%" border="0" cellpadding="6">
+<tr>
+<td width="50%" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phero20&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d&langs_count=8" width="100%"/>
-
+</td>
+<td width="50%" valign="top">
 <img src="https://streak-stats.demolab.com?user=phero20&theme=transparent&hide_border=true&ring=555&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=777&dates=444&background=0d0d0d&sideNums=eeeeee&currStreakNum=ffffff" width="100%"/>
-
 </td>
 </tr>
 </table>
