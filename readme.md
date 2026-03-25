@@ -40,7 +40,7 @@
 ```typescript
 const feroz = {
   name: "Md Feroz Ahmed",
-  role: "Full Stack Developer",
+  role: "Full Stack",
   location: "India 🇮🇳",
 
   currently: {
