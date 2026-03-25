@@ -40,7 +40,7 @@
 ```typescript
 const feroz = {
   name: "Md Feroz Ahmed",
-  role: "Full Stack",
+  role: "Full Stack Developer",
   location: "India 🇮🇳",
 
   currently: {
@@ -100,11 +100,11 @@ const feroz = {
     <img src="https://img.shields.io/badge/DATA_STREAM-3D_CITY_GRID-7c3aed?style=for-the-badge&labelColor=0d0d0d" />
   </p>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake.svg" />
-    <img alt="3D Contribution City" src="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="3D Contribution City" src="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
+</picture>
 </div>
 
 <br/>
