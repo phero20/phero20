@@ -106,7 +106,7 @@
 
 </div>
 
-<br/>
+
 
 <!---------------------------------------------------------------------------->
 <!--  TECH ARSENAL                                                           -->
@@ -115,7 +115,7 @@
 <div align="center">
 
 <!-- ════════════════════  LANGUAGES  ════════════════════ -->
-<br/><br/>
+<br/>
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
@@ -130,7 +130,7 @@
     <td align="center" width="110"><img src="https://img.icons8.com/?size=96&id=55251&format=png" width="64" height="64"/><br/><sub><b>C#</b></sub></td>
 </tr></table>
 
-<br/><br/>
+<br/>
 
 <table><tr>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64"/><br/><sub><b>C</b></sub></td>
@@ -140,7 +140,7 @@
 
 </tr></table>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -151,7 +151,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:00020a,10:01030a,20:020617,32:050a1a,44:0b1220,56:0f172a,68:172554,80:1e293b,90:1e3a8a,100:1e40af&text=%E2%9F%A8%20FRONTEND%20%E2%9F%A9&section=header&reversal=true&fontAlign=12&fontAlignY=42&animation=scaleIn&descAlign=48&textBg=false&fontSize=22&fontColor=22D3EE" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <table><tr>
 
@@ -163,14 +163,14 @@
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64"/><br/><sub><b>CSS3</b></sub></td>
 </tr></table>
 
-<br/><br/>
+<br/>
 
 <!-- ════════════════════  BACKEND  ════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:03010a,10:07030f,20:0f061d,32:140b2a,44:1e1b4b,56:2e1065,68:3b0764,80:4c1d95,90:581c87,100:6b21a8&text=%E2%9F%A8%20BACKEND%20%E2%9F%A9&section=header&reversal=false&fontAlign=88&fontAlignY=42&animation=scaleIn&descAlign=48&textBg=false&fontSize=22&fontColor=F472B6" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <table><tr>
   <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="64" height="64"/><br/><sub><b>Node.js</b></sub></td>
@@ -181,7 +181,7 @@
   <td align="center" width="110"> &nbsp;&nbsp;&nbsp;<img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/golang_color.gif?raw=true" width="64" height="64"/><br/><sub><b>Go Fiber</b></sub></td>
 </tr></table>
 
-<br/><br/>
+<br/>
 
 <!-- ════════════════════  DATABASES  ════════════════════ -->
 <div align="center">
@@ -199,7 +199,7 @@
     <td align="center" width="110"><img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" width="64" height="64"/><br/><sub><b>Drizzle</b></sub></td>
      
 </tr></table>
-<br/><br/>
+<br/>
 <table>
 <tr>
    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="64" height="64"/><br/><sub><b>Prisma</b></sub></td>
@@ -210,7 +210,7 @@
 </tr>
 </table>
 </div>
-<br/><br/>
+<br/>
 
 <!-- ════════════════════  CLOUD  ════════════════════ -->
 
@@ -227,7 +227,7 @@
   <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fly-io.webp" width="64" height="64"/><br/><sub><b>Fly.io</b></sub></td>
 </tr>
 </table>
-<br/><br/>
+<br/>
 <table>
 <tr>
   <td align="center" width="110"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="64" height="64"/><br/><sub><b>Render</b></sub></td>
@@ -236,7 +236,7 @@
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ════════════════════  DEVOPS  ════════════════════ -->
 
@@ -253,7 +253,7 @@
   <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="64" height="64"/><br/><sub><b>Git</b></sub></td>
 </tr></table>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -265,7 +265,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <a href="https://leetcode.com/phero21/">
@@ -273,7 +273,7 @@
 </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
 
