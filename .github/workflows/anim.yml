@@ -1,25 +1,30 @@
-name: Generate Snake
+name: 3D City Builder
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule:
+    - cron: "0 0 * * *"
+  
   workflow_dispatch:
 
-permissions:
-  contents: write
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: Generate 3D City
+    permissions:
+      contents: write 
+      
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: phero20
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with: 
-          target_branch: output
-          build_dir: dist
-        env: 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          filename: profile-3d-city.svg
+          
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
