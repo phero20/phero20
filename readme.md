@@ -12,9 +12,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=13&duration=2800&pause=1000&color=666666&center=true&vCenter=true&width=540&height=26&lines=Building+clean+and+scalable+full+stack+apps;Frontend+%7C+Backend+%7C+Databases+%7C+Shipping;Turning+ideas+into+real+products;Learning+something+new+every+single+day" alt="Typing SVG" /></a>
 
-<br/><br/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/-phero20-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/phero20)&ensp;[![LinkedIn](https://img.shields.io/badge/-md--feroz--ahmed--2a3633375-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-feroz-ahmed-2a3633375/)&ensp;[![Email](https://img.shields.io/badge/-contact%40ferozahmed.dev-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:mdferozahmed27156@gmail.com)&ensp;[![LeetCode](https://img.shields.io/badge/-phero21-000?style=flat-square&logo=leetcode&logoColor=FFC300)](https://leetcode.com/phero21/)
+[![GitHub](https://img.shields.io/badge/-phero20-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/phero20)&ensp;[![LinkedIn](https://img.shields.io/badge/-md--feroz--ahmed--2a3633375-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-feroz-ahmed-2a3633375/)&ensp;[![Email](https://img.shields.io/badge/-mdferozahmed27156@gmail.com-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:mdferozahmed27156@gmail.com)&ensp;[![LeetCode](https://img.shields.io/badge/-phero21-000?style=flat-square&logo=leetcode&logoColor=FFC300)](https://leetcode.com/phero21/)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<br/>
+
 
 <!---------------------------------------------------------------------------->
 <!--  ABOUT ME + STATS                                                       -->
@@ -32,7 +32,7 @@
 
 <p align="center"><b>Full Stack Developer focused on building scalable and reliable products.</b></p>
 
-<br/>
+<br/><br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20GITHUB%20STATS%20%E2%9F%A9&fontSize=28&fontColor=3FB950&animation=fadeIn&fontAlignY=25" width="100%"/>
@@ -86,6 +86,7 @@
 <picture>
  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </picture>
+<br/><br/>
 <div><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /></div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/pacman-contribution-graph-dark.svg">
@@ -97,11 +98,11 @@
 
 
 
-<br/>
+<br/><br/>
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=phero20&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=phero20&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/> -->
 
 </div>
 
@@ -114,11 +115,11 @@
 <div align="center">
 
 <!-- ════════════════════  LANGUAGES  ════════════════════ -->
-
+<br/><br/>
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,25:111827,50:1f2937,75:1e3a5f,100:0f766e&height=120&section=header&text=%E2%9F%A8%20LANGUAGES%20%E2%9F%A9&fontSize=28&fontColor=5EEAD4&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,25:111827,50:1f2937,75:1e3a5f,100:0f766e&height=92&section=header&text=%E2%9F%A8%20LANGUAGES%20%E2%9F%A9&fontSize=22&fontColor=5EEAD4&animation=fadeIn&fontAlignY=25" width="100%"/>
 
 <br/>
 
@@ -187,7 +188,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,25:7c2d12,50:d97706,75:f59e0b,100:fbbf24&height=92&section=header&text=%E2%9F%A8%20CLOUD%20AND%20HOSTING%20%E2%9F%A9&fontSize=22&fontColor=FDE68A&animation=fadeIn&fontAlignY=25" width="100%"/>
-<br/><br/>
+<br/>
 
 <table align="center">
 <tr>
@@ -216,7 +217,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,25:065f46,50:0f766e,75:0ea5a4,100:67e8f9&height=92&section=header&text=%E2%9F%A8%20DATABASES%20%E2%9F%A9&fontSize=22&fontColor=67E8F9&animation=fadeIn&fontAlignY=25" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <table>
 <tr>
@@ -240,9 +241,9 @@
 <!-- ════════════════════  DEVOPS  ════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,25:991b1b,50:dc2626,75:ef4444,100:fca5a5&height=92&section=header&text=%E2%9F%A8%20DEVOPS%20%E2%9F%A9&fontSize=22&fontColor=FCA5A5&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,25:991b1b,50:dc2626,75:ef4444,100:fca5a5&height=92&section=header&text=%E2%9F%A8%20DEVOPS%20AND%20TOOLS%20%E2%9F%A9&fontSize=22&fontColor=FCA5A5&animation=fadeIn&fontAlignY=25" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <table><tr>
   <td align="center" width="110"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="64" height="64"/><br/><sub><b>Docker</b></sub></td>
@@ -262,9 +263,9 @@
 <!--  LEETCODE                                                               -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=40&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
 <a href="https://leetcode.com/phero21/">
@@ -274,9 +275,9 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=40&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 
-<br/><br/><br/>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,20:D1FAE5,40:A7F3D0,60:6EE7B7,80:34D399,100:10B981&height=140&section=footer&fontSize=62&fontColor=111827&animation=twinkling&fontAlignY=46" width="100%"/>
 </div>
