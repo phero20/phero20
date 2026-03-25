@@ -163,7 +163,7 @@
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64"/><br/><sub><b>CSS3</b></sub></td>
 </tr></table>
 
-<br/>
+<br/><br/>
 
 <!-- ════════════════════  BACKEND  ════════════════════ -->
 
@@ -181,7 +181,7 @@
   <td align="center" width="110"> &nbsp;&nbsp;&nbsp;<img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/golang_color.gif?raw=true" width="64" height="64"/><br/><sub><b>Go Fiber</b></sub></td>
 </tr></table>
 
-<br/>
+<br/><br/>
 
 <!-- ════════════════════  DATABASES  ════════════════════ -->
 <div align="center">
@@ -210,7 +210,7 @@
 </tr>
 </table>
 </div>
-<br/>
+<br/><br/>
 
 <!-- ════════════════════  CLOUD  ════════════════════ -->
 
@@ -236,7 +236,7 @@
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <!-- ════════════════════  DEVOPS  ════════════════════ -->
 
@@ -257,7 +257,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!---------------------------------------------------------------------------->
 <!--  LEETCODE                                                               -->
