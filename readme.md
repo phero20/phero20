@@ -101,9 +101,7 @@ const feroz = {
   </p>
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake.svg?v=1" />
-  <img alt="3D Contribution City" src="https://raw.githubusercontent.com/phero20/phero20/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
+ <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </picture>
 </div>
 
