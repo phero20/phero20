@@ -186,8 +186,8 @@
 <!-- ════════════════════  DATABASES  ════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,25:065f46,50:0f766e,75:0ea5a4,100:67e8f9&height=92&section=header&text=%E2%9F%A8%20DATABASES%20%E2%9F%A9&fontSize=22&fontColor=67E8F9&animation=fadeIn&fontAlignY=25" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,25:7c2d12,50:d97706,75:f59e0b,100:fbbf24&height=92&section=header&text=%E2%9F%A8%20CLOUD%20AND%20HOSTING%20%E2%9F%A9&fontSize=22&fontColor=FDE68A&animation=fadeIn&fontAlignY=25" width="100%"/>
 <br/>
 
 <table align="center">
@@ -215,8 +215,8 @@
 <!-- ════════════════════  CLOUD  ════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,25:065f46,50:0f766e,75:0ea5a4,100:67e8f9&height=92&section=header&text=%E2%9F%A8%20DATABASES%20%E2%9F%A9&fontSize=22&fontColor=67E8F9&animation=fadeIn&fontAlignY=25" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,25:7c2d12,50:d97706,75:f59e0b,100:fbbf24&height=92&section=header&text=%E2%9F%A8%20CLOUD%20AND%20HOSTING%20%E2%9F%A9&fontSize=22&fontColor=FDE68A&animation=fadeIn&fontAlignY=25" width="100%"/>
 <br/>
 
 <table>
