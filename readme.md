@@ -41,7 +41,9 @@
 <table width="100%" border="0" cellpadding="6">
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phero20&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d&langs_count=8" width="100%"/>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/phero20?cardType=octocat&theme=radical" alt="GitHub Stats" />
+</p>
 </td>
 <td width="50%" valign="top">
 <img src="https://streak-stats.demolab.com?user=phero20&theme=transparent&hide_border=true&ring=555&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=777&dates=444&background=0d0d0d&sideNums=eeeeee&currStreakNum=ffffff" width="100%"/>
@@ -51,23 +53,15 @@
 
 </div>
 
-
-<!---------------------------------------------------------------------------->
-<!--  PROFILE SUMMARY CARDS — unique mosaic layout                          -->
-<!---------------------------------------------------------------------------->
-
 <div align="center">
 
 <table width="100%" border="0" cellpadding="6">
 <tr>
-<td width="33%">
+<td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phero20&theme=github_dark" width="100%"/>
 </td>
-<td width="33%">
+<td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phero20&theme=github_dark" width="100%"/>
-</td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phero20&theme=github_dark&utcOffset=+5.5" width="100%"/>
 </td>
 </tr>
 <tr>
