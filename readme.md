@@ -128,6 +128,7 @@
 
 <table><tr>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64"/><br/><sub><b>C</b></sub></td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64"/><br/><sub><b>C++</b></sub></td>
   <td align="center" width="120"><img src="https://img.icons8.com/?size=96&id=Rc0Xn5AtE8kX&format=apng" width="64" height="64"/><br/><sub><b>Python</b></sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="64" height="64"/><br/><sub><b>TypeScript</b></sub></td>
   <td align="center" width="120"><img src="https://img.icons8.com/?size=96&id=tGvHBPJaKqEd&format=apng" width="64" height="64"/><br/><sub><b>JavaScript</b></sub></td>
