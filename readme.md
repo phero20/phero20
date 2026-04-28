@@ -100,7 +100,25 @@
 
 </div>
 
+<!---------------------------------------------------------------------------->
+<!--  LEETCODE                                                               -->
+<!---------------------------------------------------------------------------->
 
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<br/>
+
+<div align="center">
+<a href="https://leetcode.com/phero21/">
+  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Geist+Mono&border=0&radius=10" width="80%"/>
+</a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
+<br/>
 
 <!---------------------------------------------------------------------------->
 <!--  TECH ARSENAL                                                           -->
@@ -254,23 +272,6 @@
 
 <br/><br/>
 
-<!---------------------------------------------------------------------------->
-<!--  LEETCODE                                                               -->
-<!---------------------------------------------------------------------------->
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<br/>
-
-<div align="center">
-<a href="https://leetcode.com/phero21/">
-  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Geist+Mono&border=0&radius=10" width="80%"/>
-</a>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 
 <br/><br/>
