@@ -209,6 +209,7 @@
   <td align="center" width="110"><img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="64" height="64"/><br/><sub><b>MySQL</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="64" height="64"/><br/><sub><b>MongoDB</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64"/><br/><sub><b>Redis</b></sub></td>
+  <td align="center" width="110"><img src="https://bullmq.io/images/vIKxwM0Rn--400.jpeg" width="64" height="64"/><br/><sub><b>Valkey</b></sub></td>
     <td align="center" width="110"><img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" width="64" height="64"/><br/><sub><b>Drizzle</b></sub></td>
      
 </tr></table>
@@ -235,6 +236,8 @@
 <table>
 <tr>
   <td align="center" width="110"><img src="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="64" height="64"/><br/><sub><b>AWS</b></sub></td>
+  <td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="64" height="64"/><br/><sub><b>Azure</b></sub></td>
+  <td align="center" width="110"><img src="https://i.pinimg.com/736x/f7/e3/f9/f7e3f92da5609938d721d278d214f395.jpg" width="64" height="64"/><br/><sub><b>DigitalOcean</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="64" height="64"/><br/><sub><b>Google Cloud</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="64" height="64"/><br/><sub><b>Cloudflare</b></sub></td>
   <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fly-io.webp" width="64" height="64"/><br/><sub><b>Fly.io</b></sub></td>
@@ -261,6 +264,7 @@
 <table><tr>
   <td align="center" width="110"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="64" height="64"/><br/><sub><b>Docker</b></sub></td>
   <td align="center" width="110"><img src="https://camo.githubusercontent.com/1540111778c919b75a5ccb27b2f8613231d876d48e3efc13a58eae05ff926d46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" width="64" height="64"/><br/><sub><b>Nginx</b></sub></td>
+  <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/caddy.svg" width="64" height="64"/><br/><sub><b>Caddy</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64"/><br/><sub><b>GH Actions</b></sub></td>
   <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" height="64"/><br/><sub><b>Linux</b></sub></td>
   <td align="center" width="110"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="64" height="64"/><br/><sub><b>Git</b></sub></td>
