@@ -111,7 +111,9 @@
 
 <div align="center">
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap)
+<a href="https://leetcode.com/u/phero21/">
+  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap" alt="LeetCode Stats">
+</a>
 
 </div>
 
