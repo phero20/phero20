@@ -110,9 +110,9 @@
 <br/>
 
 <div align="center">
-<a href="https://leetcode.com/phero21/">
-  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Geist+Mono&border=0&radius=10" width="80%"/>
-</a>
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap)
+
 </div>
 
 <br/>
