@@ -32,8 +32,20 @@
 
 <p align="center"><b>Full Stack Developer focused on building scalable and reliable products.</b></p>
 
-<br/><br/>
+<br/>
 
+<!---------------------------------------------------------------------------->
+<!--  LEETCODE                                                               -->
+<!---------------------------------------------------------------------------->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20LEETCODE%20STATS%20%E2%9F%A9&fontSize=28&fontColor=FFA116&animation=fadeIn&fontAlignY=25" width="100%"/>
+<a href="https://leetcode.com/u/phero21/">
+  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap" alt="LeetCode Stats">
+</a>
+
+</div>
+
+<br/><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20GITHUB%20STATS%20%E2%9F%A9&fontSize=28&fontColor=3FB950&animation=fadeIn&fontAlignY=25" width="100%"/>
 <div align="center">
@@ -100,26 +112,7 @@
 
 </div>
 
-<!---------------------------------------------------------------------------->
-<!--  LEETCODE                                                               -->
-<!---------------------------------------------------------------------------->
 
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=header&text=%E2%9F%A8%20LEETCODE%20%E2%9F%A9&fontSize=18&fontColor=FBBF24&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/phero21/">
-  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap" alt="LeetCode Stats">
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:78350f,25:92400e,50:d97706,75:f59e0b,100:fcd34d&height=60&section=footer&text=%E2%9F%A8%20%20%E2%9F%A9&fontSize=30&fontColor=FBBF24&animation=fadeIn&fontAlignY=55" width="100%"/>
 <br/>
 
 <!---------------------------------------------------------------------------->
