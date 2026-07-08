@@ -45,7 +45,7 @@
 
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20GITHUB%20STATS%20%E2%9F%A9&fontSize=28&fontColor=3FB950&animation=fadeIn&fontAlignY=25" width="100%"/>
 <div align="center">
