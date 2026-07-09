@@ -14,13 +14,24 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-phero20-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/phero20)&ensp;[![LinkedIn](https://img.shields.io/badge/-md--feroz--ahmed--2a3633375-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-feroz-ahmed-2a3633375/)&ensp;[![Email](https://img.shields.io/badge/-mdferozahmed27156@gmail.com-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:mdferozahmed27156@gmail.com)&ensp;[![LeetCode](https://img.shields.io/badge/-phero21-000?style=flat-square&logo=leetcode&logoColor=FFC300)](https://leetcode.com/phero21/)
+[![GitHub](https://img.shields.io/badge/-phero20-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/phero20)&ensp;
+[![LinkedIn](https://img.shields.io/badge/-md--feroz--ahmed--2a3633375-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-feroz-ahmed-2a3633375/)&ensp;
+[![Email](https://img.shields.io/badge/-mdferozahmed27156@gmail.com-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:mdferozahmed27156@gmail.com)&ensp;
+[![LeetCode](https://img.shields.io/badge/-phero21-000?style=flat-square&logo=leetcode&logoColor=FFC300)](https://leetcode.com/phero21/)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=phero20&style=flat-square&color=8b5cf6&label=profile+views)&ensp;![](https://img.shields.io/github/followers/phero20?style=flat-square&label=followers&labelColor=374151&color=2563eb)&ensp;![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/phero20&query=$.public_repos&label=public%20repos&style=flat-square&labelColor=374151&color=16a34a)
+![](https://komarev.com/ghpvc/?username=phero20&style=flat-square&color=8b5cf6&label=profile+views)&ensp;
+![](https://img.shields.io/github/followers/phero20?style=flat-square&label=followers&labelColor=374151&color=2563eb)&ensp;
+
 
 </div>
+
+
+
+
+
+
 
 
 
