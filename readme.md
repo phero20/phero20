@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellpadding="6">
+<!-- <table width="100%" border="0" cellpadding="6">
 <tr>
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phero20&theme=github_dark" width="100%"/>
@@ -92,7 +92,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phero20&theme=github_dark" width="100%"/>
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
