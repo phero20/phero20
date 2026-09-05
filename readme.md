@@ -51,7 +51,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:484f58&height=120&section=header&text=%E2%9F%A8%20LEETCODE%20STATS%20%E2%9F%A9&fontSize=28&fontColor=FFA116&animation=fadeIn&fontAlignY=25" width="100%"/>
 <a href="https://leetcode.com/u/phero21/">
-  <img src="https://leetcard.jacoblin.cool/phero21?theme=dark&font=Noto%20Sans%20N%20Ko&ext=heatmap" alt="LeetCode Stats">
+  
+![LeetCode Stats](https://leetcode-stats-phi.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Clanguages%2Cheatmap&theme=dark&hide_border=true&transparent=true)
 </a>
 
 </div>
